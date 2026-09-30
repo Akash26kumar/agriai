@@ -57,3 +57,8 @@ This is a demo project. CORS is open to all origins and the write endpoints have
 
 ## License
 MIT, see [LICENSE](LICENSE.txt).
+## 👨‍💻 Author
+
+**Akash Kumar Thakur**
+
+- GitHub: [@Akash26kumar](https://github.com/Akash26kumar)
