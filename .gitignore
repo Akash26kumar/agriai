@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# build output
+.next/
+out/
+build/
+
+# secrets / local config
+.env
+.env.local
+.env*.local
+
+# python
+__pycache__/
+*.pyc
+*.joblib
+
+# logs & OS files
+*.log
+.DS_Store
