@@ -56,4 +56,4 @@ Or with Docker: `docker build -t agriai-ml mservice && docker run -p 8000:8000 a
 This is a demo project. CORS is open to all origins and the write endpoints have no authentication or rate limiting, so add both before deploying publicly.
 
 ## License
-MIT, see [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE.txt).
